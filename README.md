@@ -4,5 +4,7 @@ Hi, my name is Gabriela Mattos. I am a technician in Industrial Automation by CE
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabimattos)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabimattos&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
